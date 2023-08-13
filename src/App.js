@@ -29,10 +29,10 @@ function App() {
       <Route path="/login" element={<Login/>}/>
       <Route path="/Register" element={<Register/>}/>
       <Route path="/Reset" element={<Reset/>}/>
-      <Route path="/admin/*" element={<AdminOnlyRoute><Admin/></AdminOnlyRoute>}/>
       <Route path="/product-details/:id" element={<ProductDetails/>}/>
-      <Route path="/cart" element={<Cart/>}/>
+      <Route path="/admin/*" element={<AdminOnlyRoute><Admin/></AdminOnlyRoute>}/>
       <Route path="/checkout-details" element={<CheckoutDetails/>}/>
+      <Route path="/cart" element={<Cart/>}/>
       <Route path="/checkout" element={<Checkout/>}/>
       <Route path="/checkout-success" element={<CheckoutSuccess/>}/>
       <Route path="/order-history" element={<OrderHistory/>}/>

@@ -54,7 +54,7 @@ const Contact = () => {
               <div className={styles.icons}>
                 <span>
                   <FaPhoneAlt/>
-                  <p>+0888888888</p>
+                  <p>+088888888888</p>
                 </span>
                 <span>
                   <FaEnvelope/>

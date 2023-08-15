@@ -54,19 +54,19 @@ const Contact = () => {
               <div className={styles.icons}>
                 <span>
                   <FaPhoneAlt/>
-                  <p>+234 705 141 6565</p>
+                  <p>+0888888888</p>
                 </span>
                 <span>
                   <FaEnvelope/>
-                  <p>annguyen1112k2@gmail.com</p>
+                  <p>nguyenvutiendo369@gmail.com</p>
                 </span>
                 <span>
                   <GoLocation/>
-                  <p>NVA</p>
+                  <p>Ha Noi</p>
                 </span>
                 <span>
                   <FaTwitter/>
-                  <p>@annguyen112k2</p>
+                  <p>@tiendo__</p>
                 </span>
               </div>
             </Card>
